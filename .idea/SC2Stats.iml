@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mechanize (v1.0.1.beta.20110107104205, C:/Ruby192/lib/ruby/gems/1.9.1/gems/mechanize-1.0.1.beta.20110107104205)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] nokogiri (v1.4.4.1, C:/Ruby192/lib/ruby/gems/1.9.1/gems/nokogiri-1.4.4.1-x86-mingw32)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] net-http-persistent (v1.5, C:/Ruby192/lib/ruby/gems/1.9.1/gems/net-http-persistent-1.5)" level="application" />
+  </component>
+</module>
+
